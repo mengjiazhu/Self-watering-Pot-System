@@ -1,4 +1,4 @@
-# Self-watering-Pot-System
+# Self-watering Pot Systems
 3D printing of customized self-watering pot systems. The inner basket is designed using Rhino and Grasshopper. 
 
 The full introduction and methods are described here:
