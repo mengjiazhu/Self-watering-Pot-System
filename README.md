@@ -6,4 +6,4 @@ The full introduction and methods are described here:
 https://www.instructables.com/id/3D-Printing-of-Self-watering-Pot-Systems/
 
 ### Updates:
-'basket2' files are the updated versions for structures free of non-manifold edges and naked edges.
+'basket2' Rhino and Grasshopper files are the updated versions for structures free of non-manifold edges and naked edges.
